@@ -78,6 +78,8 @@ exports.remainder = function (n) {
 
 exports.round = Math.round;
 
+exports.fround = Math.fround;
+
 exports.sin = Math.sin;
 
 exports.sqrt = Math.sqrt;
